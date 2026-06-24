@@ -1,16 +1,88 @@
-# React + Vite
+# 🌐 Soumya Pratap Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive portfolio website built to showcase my projects, technical skills, certifications, achievements, and development journey.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Website
 
-## React Compiler
+🔗 https://soumya-pratap-portfolio.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Modern Responsive Design
+- Professional Project Showcase
+- Technical Skills Section
+- Certifications & Achievements
+- Contact Information
+- Fast and Optimized Performance
+- Mobile Friendly Layout
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Vite
+
+### Deployment
+- Vercel
+
+---
+
+## 📂 Sections
+
+- Home
+- About Me
+- Skills
+- Projects
+- Certifications
+- Contact
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+(Add Screenshot)
+
+### Projects Section
+(Add Screenshot)
+
+### Skills Section
+(Add Screenshot)
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/SoumyaPratap/soumya-pratap-portfolio.git
+```
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 👨‍💻 Developer
+
+**Soumya Pratap Singh**
+
+📧 Email: Soumyapratapsingh0001@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/soumya-pratap-singh-571955302
+
+🌐 Portfolio:
+https://soumya-pratap-portfolio.vercel.app
+
+---
+
+⭐ If you like this project, consider giving it a star.
