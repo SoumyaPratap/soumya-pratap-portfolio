@@ -57,7 +57,7 @@ function Hero() {
             </a>
 
             <a
-              href="/resume/Soumya-Pratap-Singh-Resume.pdf"
+              href="/resume/RESUME.pdf"
               download
               className="px-6 py-3 border border-cyan-500 rounded-xl hover:bg-cyan-500 hover:text-white transition"
             >
